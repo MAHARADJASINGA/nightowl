@@ -1,0 +1,952 @@
+
+#EXTM3U
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://static.mncnow.id/images/channel/cb810dee/2cfd_r32.jpeg",RCTI 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_665_720p/index.m3u8
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://static.mncnow.id/images/channel/3ce31c86/081e_r32.jpeg",SCTV 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_204_720p/index.m3u8
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://static.mncnow.id/images/channel/1b160abe/692a_r32.jpeg",Indosiar 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_205_480p/index.m3u8
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://static.mncnow.id/images/channel/65d104a5/6132_r32.jpg",Net Tv 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_875_480p/index.m3u8
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://static.mncnow.id/images/channel/4638bf6e/ba92_r32.jpg",MNCTV 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_870_720p/index.m3u8
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://static.mncnow.id/images/channel/562d2bb9/2856_r32.jpg",Trans Tv 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_733_720p/index.m3u8
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://static.mncnow.id/images/channel/03d5baeb/a38a_r32.jpg",Trans7 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_734_720p/index.m3u8
+===Nasi Uduk====
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://static.mncnow.id/images/channel/46535a59/4377_r32.jpeg",GTV 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_778_720p/index.m3u8
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://static.mncnow.id/images/channel/e71dc3ed/0d3a_r32.jpg",Kompas Tv 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_874_720p/index.m3u8
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://static.mncnow.id/images/channel/901727d0/976b_r32.jpg",Metro Tv 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_777_720p/index.m3u8
+#EXTINF:-1 group-title="Movies",Citra Drama 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6401_720p/index.m3u8
+#EXTINF:-1 group-title="Movies",Citra Muslim 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6678_720p/index.m3u8
+#EXTINF:-1 group-title="Movies",Citra Bioskop 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u8
+#EXTINF:-1 group-title="Knowledge",Tv Edukasi 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6838_720p/index.m3u8
+#EXTINF:-1 group-title="Berita" tvg-logo="https://static.mncnow.id/images/channel/326f22ff/88fd_r32.jpg",Berita Satu 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6165_720p/index.m3u8
+#EXTINF:-1 group-title="Berita" tvg-logo="https://static.mncnow.id/images/channel/74fcf81e/df5c_r32.jpg",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1585454474_b280000_sleng.m3u8?token=ireg.m3u8
+#EXTINF:-1 group-title="Berita" tvg-logo="https://static.mncnow.id/images/channel/326f22ff/88fd_r32.jpg",Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 group-title="Kids",Hip Hip Horee 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7052_720p/index.m3u8
+#EXTINF:-1 group-title="Kids",Horee 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6397_720p/index.m3u8
+#EXTINF:0, group-title="DISCOVERY" tvg-logo="https://telegra.ph/file/3b454ca25d6e366b02f24.png" - Discovery Life
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52965
+===Nasi Uduk====
+#EXTINF:0, group-title="DISCOVERY" tvg-logo="https://telegra.ph/file/
+625b5253d10c329d84aff.png" - Discovery Investigation
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7848
+#EXTINF:0, group-title="DISCOVERY" tvg-logo="https://telegra.ph/file/115360a81fb3890f5101f.png" - Discovery Channel 552
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7889
+#EXTINF:0, group-title="Indonesia" tvg-logo="" - RCTI
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_665_720p/index.m3u8
+#EXTINF:0, group-title="Indonesia" tvg-logo="" - SCTV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_204_720p/index.m3u8
+#EXTINF:0, group-title="Indonesia" tvg-logo="" - Indosiar
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_205_720p/index.m3u8
+#EXTINF:0, group-title="Indonesia" tvg-logo="" - NET TV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_875_720p/index.m3u8
+#EXTINF:0, group-title="Indonesia" tvg-logo="" - MNCTV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_870_720p/index.m3u8
+#EXTINF:0, group-title="Indonesia" tvg-logo="" - TRANSTV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_733_720p/index.m3u8
+#EXTINF:0, group-title="Indonesia" tvg-logo="" - GTV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_778_720p/index.m3u8
+#EXTINF:0, group-title="Indonesia" tvg-logo="" - Kompas TV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_874_720p/index.m3u8
+===Nasi Uduk====
+#EXTINF:0, group-title="Indonesia" tvg-logo="" - Metro TV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_777_720p/index.m3u8
+#EXTINF:0, group-title="Indonesia" tvg-logo="" - Metro TV [Backup]
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:0, group-title="Indonesia" tvg-logo="" - O Channel
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_206_720p/index.m3u8
+#EXTINF:0, group-title="Indonesia" tvg-logo="" - Jak TV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_5415_720p/index.m3u8
+#EXTINF:0, group-title="Indonesia" tvg-logo="" - JTV
+http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
+#EXTINF:0, group-title="Indonesia" tvg-logo="" - TVRI NASIONAL
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:0, group-title="Indonesia" tvg-logo="" - Citra Drama
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6401_720p/index.m3u8
+#EXTINF:0, group-title="Indonesia" tvg-logo="" - Citra Muslim
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6678_720p/index.m3u8
+#EXTINF:0, group-title="Indonesia" tvg-logo="" - Citra Bioskop
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u8
+#EXTINF:0, group-title="Indonesia" tvg-logo="" - TV Edukasi
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6838_720p/index.m3u8
+#EXTINF:0, group-title="Indonesia" tvg-logo="" - Berita Satu
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6165_720p/index.m3u8
+#EXTINF:0, group-title="Indonesia" tvg-logo="" - Berita Satu [Backup]
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:0, group-title="Indonesia" tvg-logo="" - CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_earth_uk.png" group-title="KNOWLEDGE",BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" group-title="KNOWLEDGE",Animal Planet
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_asia_us.png" group-title="KNOWLEDGE",Discovery Asia
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/outdoor-channel-us.png" group-title="KNOWLEDGE",Outdoor Channel
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/blue-ant-extreme-ca.png" group-title="KNOWLEDGE",Blue Ant Extreme
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/blue-ant-entertainment-ca.png" group-title="KNOWLEDGE",BlueAnt Entertainment HD
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc_uk.png" group-title="KNOWLEDGE",TLC
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_240.jpg" group-title="KNOWLEDGE",Asian Food Channel
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="DiscoveryAsia.my" tvg-name="Discovery Channel HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="KNOWLEDGE",Discovery Channel HD
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="KNOWLEDGE",National Geographic Channel
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_wild_us.png" group-title="KNOWLEDGE",Nat Geo Wild
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" group-title="KNOWLEDGE",Discovery Turbo
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5nfhTLs/cgtn-documentary.jpg" group-title="KNOWLEDGE", CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bmLNjpD/dw.png" group-title="KNOWLEDGE", DW English
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tzmwLsj/Biznet-Adventure.png" group-title="KNOWLEDGE", Bisnet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv5_monde_asie.png" group-title="KNOWLEDGE",TV5 Monde Asie
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_6.m3u8
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="...NBC SPORTS NETWORK HD" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IsH/IsH_large.png" group-title="SPORTS",...NBC SPORTS NETWORK HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7995
+#EXTINF:-1 tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/05/bloomberg-TV-Asia.jpg" group-title="KNOWLEDGE",Bloomberg HD
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:0, group-title="MOVIES" tvg-logo="https://telegra.ph/file/9f6377b501789af716993.png" - CINEMAX MOREMAX HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20907
+#EXTINF:0, group-title="MOVIES" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png" - CINEMAX EAST HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20906
+#EXTINF:0, group-title="MOVIES" tvg-logo="https://telegra.ph/file/c286472ec0a87411c8f8c.png" - CINEMAX OUTERMAX HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20905
+#EXTINF:0, group-title="MOVIES" tvg-logo="https://telegra.ph/file/ed7680ff3de682cb8d8ba.png" - CINEMX MOVIEMAX HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20897
+#EXTINF:0, group-title="MOVIES" tvg-logo="https://telegra.ph/file/57b8b54f1ae6a545de204.png" - CINEMAX 5 STARMAX HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7892
+#EXTINF:0, group-title="MOVIES" tvg-logo="https://telegra.ph/file/b4571424c20b5fc93f285.png" - CINEMAX ACTIONMAX
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20898
+#EXTINF:0, group-title="MOVIES" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png" - CINEMAX PLUS HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/14186
+#EXTINF:-1 group-title="Eleven Sport",Eleven Sport 1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1 group-title="Eleven Sport",Eleven Sport 2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+#EXTINF:-1 group-title="True Premiere",True Premiere 1
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="True Premiere",True Premiere 2
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="True Premiere",True Premiere 3
+http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Eurosport",Eurosport 1
+http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Eurosport",Euro Sport 2
+http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="BT Sport",BT Sport 1
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="BT Sport",BT Sport 2
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="True Sport",True Sport 1
+http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="True Sport",True Sport 2
+http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="True Sport",True Sport 3
+http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="True Sport",True Sport 4
+http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="True Sport",True Sport 5
+http://77.83.117.60:8888/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1,CCTV-1
+http://39.134.168.91/PLTV/1/224/3221225508/index.m3u8
+#EXTINF:-1,CCTV-1
+http://39.134.168.91/PLTV/1/224/3221225510/index.m3u8
+#EXTINF:-1,CCTV-2
+http://39.134.168.91/PLTV/1/224/3221225550/index.m3u8
+#EXTINF:-1,CCTV-3
+http://39.134.168.91/PLTV/1/224/3221225552/index.m3u8
+#EXTINF:-1,CCTV-4
+http://39.134.168.91/PLTV/1/224/3221225554/index.m3u8
+#EXTINF:-1,CCTV-5
+http://39.134.168.91/PLTV/1/224/3221225556/index.m3u8
+#EXTINF:-1,CCTV-6
+http://39.134.168.91/PLTV/1/224/3221225558/index.m3u8
+#EXTINF:-1,CCTV-7
+http://39.134.168.91/PLTV/1/224/3221225560/index.m3u8
+#EXTINF:-1,CCTV-8
+http://39.134.168.91/PLTV/1/224/3221225562/index.m3u8
+#EXTINF:-1,CCTV-10
+http://39.134.168.91/PLTV/1/224/3221225564/index.m3u8
+#EXTINF:-1,CCTV-11
+http://39.134.168.91/PLTV/1/224/3221225566/index.m3u8
+#EXTINF:-1,CCTV-12
+http://39.134.168.91/PLTV/1/224/3221225568/index.m3u8
+#EXTINF:-1,CCTV-13
+http://39.134.168.91/PLTV/1/224/3221225572/index.m3u8
+#EXTINF:-1,CCTV-14
+http://39.134.168.91/PLTV/1/224/3221225570/index.m3u8
+#EXTINF:-1,CCTV-15
+http://39.134.168.91/PLTV/1/224/3221225574/index.m3u8
+#EXTINF:-1,东方卫视
+http://39.134.168.91/PLTV/1/224/3221225492/index.m3u8
+#EXTINF:-1,东方卫视
+http://39.134.168.91/PLTV/1/224/3221225504/index.m3u8
+#EXTINF:-1,东方卫视
+http://39.134.168.91/PLTV/1/224/3221225506/index.m3u8
+#EXTINF:-1,江苏卫视
+http://39.134.168.91/PLTV/1/224/3221225512/index.m3u8
+#EXTINF:-1,江苏卫视
+http://39.134.168.91/PLTV/1/224/3221225514/index.m3u8
+#EXTINF:-1,湖南卫视
+http://39.134.168.91/PLTV/1/224/3221225516/index.m3u8
+#EXTINF:-1,湖南卫视
+http://39.134.168.91/PLTV/1/224/3221225518/index.m3u8
+#EXTINF:-1,北京卫视
+http://39.134.168.91/PLTV/1/224/3221225524/index.m3u8
+#EXTINF:-1,北京卫视
+http://39.134.168.91/PLTV/1/224/3221225526/index.m3u8
+#EXTINF:-1,广东卫视
+http://39.134.168.91/PLTV/1/224/3221225528/index.m3u8
+#EXTINF:-1,广东卫视
+http://39.134.168.91/PLTV/1/224/3221225530/index.m3u8
+#EXTINF:-1,广西卫视
+http://39.134.168.91/PLTV/1/224/3221225598/index.m3u8
+#EXTINF:-1,浙江卫视
+http://39.134.168.91/PLTV/1/224/3221225520/index.m3u8
+#EXTINF:-1,浙江卫视
+http://39.134.168.91/PLTV/1/224/3221225522/index.m3u8
+#EXTINF:-1,深圳卫视
+http://39.134.168.91/PLTV/1/224/3221225532/index.m3u8
+#EXTINF:-1,深圳卫视
+http://39.134.168.91/PLTV/1/224/3221225534/index.m3u8
+#EXTINF:-1,黑龙江卫视
+http://39.134.168.91/PLTV/1/224/3221225536/index.m3u8
+#EXTINF:-1,黑龙江卫视
+http://39.134.168.91/PLTV/1/224/3221225538/index.m3u8
+#EXTINF:-1,山东卫视
+http://39.134.168.91/PLTV/1/224/3221225540/index.m3u8
+#EXTINF:-1,山东卫视
+http://39.134.168.91/PLTV/1/224/3221225542/index.m3u8
+#EXTINF:-1,湖北卫视
+http://39.134.168.91/PLTV/1/224/3221225546/index.m3u8
+#EXTINF:-1,湖北卫视
+http://39.134.168.91/PLTV/1/224/3221225544/index.m3u8
+#EXTINF:-1,安徽卫视
+http://39.134.168.91/PLTV/1/224/3221225548/index.m3u8
+#EXTINF:-1,海南卫视
+http://39.134.168.91/PLTV/1/224/3221225620/index.m3u8
+#EXTINF:-1,青海卫视
+http://39.134.168.91/PLTV/1/224/3221225622/index.m3u8
+#EXTINF:-1,河北卫视
+http://39.134.168.91/PLTV/1/224/3221225624/index.m3u8
+#EXTINF:-1,内蒙古卫视
+http://39.134.168.91/PLTV/1/224/3221225626/index.m3u8
+#EXTINF:-1,陕西卫视
+http://39.134.168.91/PLTV/1/224/3221225628/index.m3u8
+#EXTINF:-1,新疆卫视
+http://39.134.168.91/PLTV/1/224/3221225630/index.m3u8
+#EXTINF:-1,云南卫视
+http://39.134.168.91/PLTV/1/224/3221225632/index.m3u8
+#EXTINF:-1,兵团卫视
+http://39.134.168.91/PLTV/1/224/3221225634/index.m3u8
+#EXTINF:-1,宁夏卫视
+http://39.134.168.91/PLTV/1/224/3221225638/index.m3u8
+#EXTINF:-1,甘肃卫视
+http://39.134.168.91/PLTV/1/224/3221225636/index.m3u8
+#EXTINF:-1,厦门卫视
+http://39.134.168.91/PLTV/1/224/3221225640/index.m3u8
+#EXTINF:-1,山西卫视
+http://39.134.168.91/PLTV/1/224/3221225646/index.m3u8
+#EXTINF:-1,西藏卫视
+http://39.134.168.91/PLTV/1/224/3221225648/index.m3u8
+#EXTINF:-1,重庆卫视
+http://39.134.168.91/PLTV/1/224/3221225576/index.m3u8
+#EXTINF:-1,东方财经浦东
+http://39.134.168.91/PLTV/1/224/3221225578/index.m3u8
+#EXTINF:-1,东南卫视
+http://39.134.168.91/PLTV/1/224/3221225580/index.m3u8
+#EXTINF:-1,贵州卫视
+http://39.134.168.91/PLTV/1/224/3221225582/index.m3u8
+#EXTINF:-1,河南卫视
+http://39.134.168.91/PLTV/1/224/3221225584/index.m3u8
+#EXTINF:-1,吉林卫视
+http://39.134.168.91/PLTV/1/224/3221225586/index.m3u8
+#EXTINF:-1,江西卫视
+http://39.134.168.91/PLTV/1/224/3221225588/index.m3u8
+#EXTINF:-1,辽宁卫视
+http://39.134.168.91/PLTV/1/224/3221225590/index.m3u8
+#EXTINF:-1,四川卫视
+http://39.134.168.91/PLTV/1/224/3221225592/index.m3u8
+#EXTINF:-1,天津卫视
+http://39.134.168.91/PLTV/1/224/3221225594/index.m3u8
+#EXTINF:-1,动漫秀场
+http://39.134.168.91/PLTV/1/224/3221225596/index.m3u8
+#EXTINF:-1,金鹰卡通
+http://39.134.168.91/PLTV/1/224/3221225602/index.m3u8
+#EXTINF:-1,上海外语频道
+http://39.134.168.91/PLTV/1/224/3221225486/index.m3u8
+#EXTINF:-1,纪实人文
+http://39.134.168.91/PLTV/1/224/3221225488/index.m3u8
+#EXTINF:-1,第1财经
+http://39.134.168.91/PLTV/1/224/3221225494/index.m3u8
+#EXTINF:-1,生活时尚
+http://39.134.168.91/PLTV/1/224/3221225498/index.m3u8
+#EXTINF:-1,七彩戏剧
+http://39.134.168.91/PLTV/1/224/3221225604/index.m3u8
+#EXTINF:-1,哈哈炫动
+http://39.134.168.91/PLTV/1/224/3221225606/index.m3u8
+#EXTINF:-1,游戏风云
+http://39.134.168.91/PLTV/1/224/3221225608/index.m3u8
+#EXTINF:-1,东方影视
+http://39.134.168.91/PLTV/1/224/3221225612/index.m3u8
+#EXTINF:-1,法制天地
+http://39.134.168.91/PLTV/1/224/3221225614/index.m3u8
+#EXTINF:-1,城市都市剧场
+http://39.134.168.91/PLTV/1/224/3221225616/index.m3u8
+#EXTINF:-1,max极速汽车
+http://39.134.168.91/PLTV/1/224/3221225600/index.m3u8
+#EXTINF:-1,都是频道
+http://39.134.168.91/PLTV/1/224/3221225610/index.m3u8
+#EXTINF:-1,欢笑剧场
+http://39.134.168.91/PLTV/1/224/3221225618/index.m3u8
+#EXTINF:-1,百事通TV
+http://39.134.168.91/PLTV/1/224/3221225680/index.m3u8
+#EXTINF:-1,学而思网校
+http://39.134.168.91/PLTV/1/224/3221225684/index.m3u8
+#EXTINF:-1,卡酷少儿
+http://39.134.168.91/PLTV/1/224/3221225642/index.m3u8
+#EXTINF:-1,嘉佳卡通
+http://39.134.168.91/PLTV/1/224/3221225644/index.m3u8
+#EXTINF:-1,Skynetsport 1
+http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1,Skynetsport 2
+http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1,Skynetsport 3
+http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1,Skynetsport 4
+http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1,Skynetsport 5
+http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1,Skynetsport 6
+http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1,Fox Sports HD
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1,Fox Sports 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1,Fox Sports 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="SPORTS 2",Sport TV 1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="SPORTS 2",Sport TV 2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="SPORTS 2",Sport TV 3
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="SPORTS 2",Sport TV 4
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="SPORTS 2",Sport TV 5
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="SPORTS PLUS 1",Sony Ten 1
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30617
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="SPORTS PLUS 1",Sony Ten 2
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7244
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="SPORTS PLUS 1",Sony Ten 3
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30623
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/ufY58P.jpg" group-title="SPORTS PLUS 1",Sony Six
+http://fastrunner.live:8080/SPYKeWkZUT/sBrlqIiJC1/8682
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="SPORTS PLUS 1",ARB | beIN Sports 1
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30248
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_02_hd.png" group-title="SPORTS PLUS 1",ARB | beIN Sports 2
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265924
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="SPORTS PLUS",ARENA SPORT 1
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/12319
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="SPORTS PLUS",ARENA SPORT 2
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/12317
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="SPORTS PLUS",ARENA SPORT 3
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/12315
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="SPORTS PLUS",ARENA SPORT 4
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/12313
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="SPORTS PLUS",ARENA SPORT 5
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/12311
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_in_1.png" group-title="SPORTS PLUS",Star Sports 1
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30630
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_in_2.png" group-title="SPORTS PLUS",Star Sports 2
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30629
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_in_3.png" group-title="SPORTS PLUS",Star Sports 3
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_hk_select_hd_1.png" group-title="SPORTS PLUS",Star Sports Select 1 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30539
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_hk_select_hd_2.png" group-title="SPORTS PLUS",Star Sports Select 2 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30538
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="...ESPN 1 HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="SPORTS1",...ESPN 1 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7963
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="...ESPN 2 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/1398/brand.gif?itok=qK15mOWo" group-title="SPORTS1",...ESPN 2 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7896
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SPORTS", Setanta Sport 1
+http://ott-cdn.ucom.am/s81/03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SPORTS", Setanta Sport 2
+http://92.43.140.200/s82/04.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="CinemaBoxOffice",AndFlix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="CinemaBoxOffice",AndPrive
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="CinemaBoxOffice",Gem Bollywood
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="CinemaBoxOffice",Gem Classic
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="CinemaBoxOffice",Gem Drama
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="CinemaBoxOffice",Gem Kids
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="CinemaBoxOffice",Gem Series
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
+#EXTINF:-1,TVB
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 ,CCM
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 ,CelestiaMovie
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 ,HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 ,BOO
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1,PRIMA
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1 ,CERIA
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1,XIAOTAIYANG
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF:-1 ,SHUANGXING
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1,ASTRO Ria HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6730
+#EXTINF:-1,ASTRO Prima HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6727
+#EXTINF:-1,ASTRO Warna HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6740
+#EXTINF:-1,Astro Citra HD (subtitle)
+http://iptv.tvmalaysia.cc:80/139664/139664/7267
+#EXTINF:-1,ASTRO Naura HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6724
+#EXTINF:-1,ASTRO Oasis HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6725
+#EXTINF:-1,ASTRO Aura HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6713
+#EXTINF:-1,ASTRO Rania HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6729
+#EXTINF:-1,ASTRO Awani HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6714
+#EXTINF:-1,ASTRO Ceria HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6715
+#EXTINF:-1,ABC Australia
+http://iptv.tvmalaysia.cc:80/139664/139664/6692
+#EXTINF:-1,Asian Food Network HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6693
+#EXTINF:-1,Al-Jazzera HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6694
+#EXTINF:-1,Animal Planet HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6695
+#EXTINF:-1,Animax
+http://iptv.tvmalaysia.cc:80/139664/139664/6696
+#EXTINF:-1,Aniplus HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6697
+#EXTINF:-1,ASTRO Adithya
+http://iptv.tvmalaysia.cc:80/139664/139664/6700
+#EXTINF:-1,ASTRO AEC HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6701
+#EXTINF:-1,ASTRO AOD 351 HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6702
+#EXTINF:-1, ASTRO AOD 352 HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6703
+#EXTINF:-1,ASTRO AOD 353 HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6704
+#EXTINF:-1,ASTRO AOD 354 HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6705
+#EXTINF:-1,ASTRO AOD 355 HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6706
+#EXTINF:-1,ASTRO Colors Tamil
+http://iptv.tvmalaysia.cc:80/139664/139664/6716
+#EXTINF:-1,ASTRO Zee Tamil HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6742
+#EXTINF:-1,ASTRO GO Shop 2
+http://iptv.tvmalaysia.cc:80/139664/139664/6718
+#EXTINF:-1,ASTRO Vinmeen HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6739
+#EXTINF:-1,ASTRO Vaanavil HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6738
+#EXTINF:-1,Makkal TV
+http://iptv.tvmalaysia.cc:80/139664/139664/6806
+#EXTINF:-1,ASTRO Sun TV HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6733
+#EXTINF:-1,ASTRO Star Vijay HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6732
+#EXTINF:-1,Jaya Max
+http://iptv.tvmalaysia.cc:80/139664/139664/6802
+#EXTINF:-1,Chutti TV
+http://iptv.tvmalaysia.cc:80/139664/139664/6762
+#EXTINF:-1,ASTRO iQIYI HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6723
+#EXTINF:-1,ASTRO Hua Hee Dai HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6722
+#EXTINF:-1,ASTRO Hello
+http://iptv.tvmalaysia.cc:80/139664/139664/6721
+#EXTINF:-1,ASTRO Oh!K HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6726
+#EXTINF:-1,ASTRO Quan Jia HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6728
+#EXTINF:-1,ASTRO Shuang Xing HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6731
+#EXTINF:-1,ASTRO Tutor TV PT3
+http://iptv.tvmalaysia.cc:80/139664/139664/6734
+#EXTINF:-1,ASTRO Tutor TV SPM
+http://iptv.tvmalaysia.cc:80/139664/139664/6735
+#EXTINF:-1,ASTRO Tutor TV UPSR
+http://iptv.tvmalaysia.cc:80/139664/139664/6736
+#EXTINF:-1,ASTRO TVIQ
+http://iptv.tvmalaysia.cc:80/139664/139664/6737
+#EXTINF:-1,ASTRO Xiao Tai Yang HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6741
+#EXTINF:-1,AXN HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6743
+#EXTINF:-1,BBC Lifestyle
+http://iptv.tvmalaysia.cc:80/139664/139664/6746
+#EXTINF:-1,Bernama News
+http://iptv.tvmalaysia.cc:80/139664/139664/6750
+#EXTINF:-1,Bloomberg TV
+http://iptv.tvmalaysia.cc:80/139664/139664/6751
+#EXTINF:-1,BollyOne HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6754
+#EXTINF:-1,Channel News Asia HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6765
+#EXTINF:-1,Cinemax HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6764
+#EXTINF:-1,Celestial Movies HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6760
+#EXTINF:-1,CCTV4 HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6759
+#EXTINF:-1,Celestial Classic Movies
+http://iptv.tvmalaysia.cc:80/139664/139664/6758
+#EXTINF:-1,Cartoon Network HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6757
+#EXTINF:-1,crime & investigation HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6756
+#EXTINF:-1,FX Cinema HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6795
+#EXTINF:-1,France 24 HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6794
+#EXTINF:-1,Food Network HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6785
+#EXTINF:-1,Eurosport HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6784
+#EXTINF:-1,eGG Network
+http://iptv.tvmalaysia.cc:80/139664/139664/6783
+#EXTINF:-1,DW HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6782
+#EXTINF:-1,Dreamworks HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6780
+#EXTINF:-1,DMAX HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6778
+#EXTINF:-1,Discovery Science HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6774
+#EXTINF:-1,Discovery HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6773
+#EXTINF:-1,Discovery Asia
+http://iptv.tvmalaysia.cc:80/139664/139664/6772
+#EXTINF:-1,CTI Asia
+http://iptv.tvmalaysia.cc:80/139664/139664/6771
+#EXTINF:-1,Comedy Central
+http://iptv.tvmalaysia.cc:80/139664/139664/6770
+#EXTINF:-1,Colors HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6769
+#EXTINF:-1,Colors Cineplex
+http://iptv.tvmalaysia.cc:80/139664/139664/6768
+#EXTINF:-1,CNN HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6767
+#EXTINF:-1,CNBC
+http://iptv.tvmalaysia.cc:80/139664/139664/6766
+#EXTINF:-1,Warner TV
+http://iptv.tvmalaysia.cc:80/139664/139664/6848
+#EXTINF:-1,UTV Movies International
+http://iptv.tvmalaysia.cc:80/139664/139664/6847
+#EXTINF:-1,TV SARAWAK
+http://iptv.tvmalaysia.cc:80/139664/139664/6846
+#EXTINF:-1,tvN Movies
+http://iptv.tvmalaysia.cc:80/139664/139664/6845
+#EXTINF:-1,tvN HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6844
+#EXTINF:-1,TVBS Asia HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6843
+#EXTINF:-1,TVB Xing He HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6842
+#EXTINF:-1,TVB Jade HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6841
+#EXTINF:-1,TVB E-News
+http://iptv.tvmalaysia.cc:80/139664/139664/6840
+#EXTINF:-1,TVB Classic
+http://iptv.tvmalaysia.cc:80/139664/139664/6839
+#EXTINF:-1,TV-AlHijrah
+http://iptv.tvmalaysia.cc:80/139664/139664/6834
+#EXTINF:-1,Travel Channel HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6833
+#EXTINF:-1,TLC HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6832
+#EXTINF:-1,Sun Music
+http://iptv.tvmalaysia.cc:80/139664/139664/6831
+#EXTINF:-1,Sony TV
+http://iptv.tvmalaysia.cc:80/139664/139664/6829
+#EXTINF:-1,Sony SAB
+http://iptv.tvmalaysia.cc:80/139664/139664/6827
+#EXTINF:-1,Sky News HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6826
+#EXTINF:-1,One HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6817
+#EXTINF:-1,Nickelodeon HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6814
+#EXTINF:-1,Nick Jr
+http://iptv.tvmalaysia.cc:80/139664/139664/6813
+#EXTINF:-1,NatGeo People
+http://iptv.tvmalaysia.cc:80/139664/139664/6811
+#EXTINF:-1,MTV
+http://iptv.tvmalaysia.cc:80/139664/139664/6807
+#EXTINF:-1,KPlus HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6805
+#EXTINF:-1,Kix HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6804
+#EXTINF:-1,KBS World HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6803
+#EXTINF:-1,Hits Movies HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6801
+#EXTINF:-1,Hits HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6800
+#EXTINF:-1,History HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6799
+#EXTINF:-1,HGTV HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6798
+#EXTINF:-1,HBO HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6797
+#EXTINF:-1,TV 1
+http://iptv.tvmalaysia.cc:80/139664/139664/7177
+#EXTINF:-1,TV 2
+http://iptv.tvmalaysia.cc:80/139664/139664/7178
+#EXTINF:-1,TV 3
+http://iptv.tvmalaysia.cc:80/139664/139664/7266
+#EXTINF:-1,TV 3 HD
+http://iptv.tvmalaysia.cc:80/139664/139664/8750
+#EXTINF:-1,NTV 7
+http://iptv.tvmalaysia.cc:80/139664/139664/7182
+#EXTINF:-1,8 TV
+http://iptv.tvmalaysia.cc:80/139664/139664/7183
+#EXTINF:-1,TV 9
+http://iptv.tvmalaysia.cc:80/139664/139664/7185
+#EXTINF:-1,RTM Sports
+http://iptv.tvmalaysia.cc:80/139664/139664/7186
+#EXTINF:-1,Drama Sangat
+http://iptv.tvmalaysia.cc:80/139664/139664/7193
+#EXTINF:-1,TV IKIM
+http://iptv.tvmalaysia.cc:80/139664/139664/7192
+#EXTINF:-1,Berita RTM
+http://iptv.tvmalaysia.cc:80/139664/139664/7191
+#EXTINF:-1,BERNAMA
+http://iptv.tvmalaysia.cc:80/139664/139664/7190
+#EXTINF:-1,RTB MALAYSIA
+http://iptv.tvmalaysia.cc:80/139664/139664/7188
+#EXTINF:-1,Fox Movies Premium
+http://iptv.tvmalaysia.cc:80/139664/139664/8838
+#EXTINF:-1,Fox Action Movies
+http://iptv.tvmalaysia.cc:80/139664/139664/8839
+#EXTINF:-1,HBO FHD
+http://iptv.tvmalaysia.cc:80/139664/139664/7067
+#EXTINF:-1,HBO (Alih Bahasa)
+http://iptv.tvmalaysia.cc:80/139664/139664/8840
+#EXTINF:-1,Cinemax FHD
+http://iptv.tvmalaysia.cc:80/139664/139664/7062
+#EXTINF:-1,HBO Hits FHD
+http://iptv.tvmalaysia.cc:80/139664/139664/7068
+#EXTINF:-1,HBO Signature FHD
+http://iptv.tvmalaysia.cc:80/139664/139664/7069
+#EXTINF:-1,HBO Family FHD
+http://iptv.tvmalaysia.cc:80/139664/139664/7070
+#EXTINF:-1,Galaxy Premium
+http://iptv.tvmalaysia.cc:80/139664/139664/7065
+#EXTINF:-1,Hits Movies
+http://iptv.tvmalaysia.cc:80/139664/139664/7066
+#EXTINF:-1,Red By HBO HD
+http://iptv.tvmalaysia.cc:80/139664/139664/7071
+#EXTINF:-1,Warner TV HD
+http://iptv.tvmalaysia.cc:80/139664/139664/7072
+#EXTINF:-1,tVN movies HD
+http://iptv.tvmalaysia.cc:80/139664/139664/7074
+#EXTINF:-1,National Geographic HD
+http://iptv.tvmalaysia.cc:80/139664/139664/7075
+#EXTINF:-1,Nat Geo Wild HD
+http://iptv.tvmalaysia.cc:80/139664/139664/7081
+#EXTINF:-1,Nat Geo People HD
+http://iptv.tvmalaysia.cc:80/139664/139664/7080
+#EXTINF:-1,History FHD
+http://iptv.tvmalaysia.cc:80/139664/139664/7079
+#EXTINF:-1,Discovery Channel HD
+http://iptv.tvmalaysia.cc:80/139664/139664/7078
+#EXTINF:-1,Animal Planet
+http://iptv.tvmalaysia.cc:80/139664/139664/7077
+#EXTINF:-1,HGTV
+http://iptv.tvmalaysia.cc:80/139664/139664/7076
+#EXTINF:-1,Era FM
+http://iptv.tvmalaysia.cc:80/139664/139664/7169
+#EXTINF:-1,Hot FM
+http://iptv.tvmalaysia.cc:80/139664/139664/7170
+#EXTINF:-1,Hitz FM
+http://iptv.tvmalaysia.cc:80/139664/139664/7171
+#EXTINF:-1,Sinar FM
+http://iptv.tvmalaysia.cc:80/139664/139664/7172
+#EXTINF:-1,Sinar FM (backup)
+http://iptv.tvmalaysia.cc:80/139664/139664/7173
+#EXTINF:-1,THR GEGAR
+http://iptv.tvmalaysia.cc:80/139664/139664/7174
+#EXTINF:-1,THR GEGAR (backup)
+http://iptv.tvmalaysia.cc:80/139664/139664/7175
+#EXTINF:-1,Cinema World
+http://iptv.tvmalaysia.cc:80/139664/139664/7219
+#EXTINF:-1,Thrill
+http://iptv.tvmalaysia.cc:80/139664/139664/7220
+#EXTINF:-1,AXN
+http://iptv.tvmalaysia.cc:80/139664/139664/7223
+#EXTINF:-1,Fox Crime
+http://iptv.tvmalaysia.cc:80/139664/139664/7225
+#EXTINF:-1,FOX
+http://iptv.tvmalaysia.cc:80/139664/139664/7227
+#EXTINF:-1,Fox Life
+http://iptv.tvmalaysia.cc:80/139664/139664/7228
+#EXTINF:-1,KiX
+http://iptv.tvmalaysia.cc:80/139664/139664/7229
+#EXTINF:-1,Celestial Classic Movies.
+http://iptv.tvmalaysia.cc:80/139664/139664/7222
+#EXTINF:-1,BBC Earth
+http://iptv.tvmalaysia.cc:80/139664/139664/7233
+#EXTINF:-1,Celestial Movies
+http://iptv.tvmalaysia.cc:80/139664/139664/7235
+#EXTINF:-1,Hypp Inspirasi HD
+http://iptv.tvmalaysia.cc:80/139664/139664/7335
+#EXTINF:-1,Hypp Luxe TV HD
+http://iptv.tvmalaysia.cc:80/139664/139664/7336
+#EXTINF:-1,Hypp Sensasi HD
+http://iptv.tvmalaysia.cc:80/139664/139664/7337
+#EXTINF:-1,RIA TEST
+http://iptv.tvmalaysia.cc:80/139664/139664/8835
+#EXTINF:-1,WLT JADE
+http://iptv.tvmalaysia.cc:80/139664/139664/8836
+#EXTINF:-1,Asia Food Network
+http://iptv.tvmalaysia.cc:80/139664/139664/8857
+#EXTINF:-1,Crime & Investigation
+http://iptv.tvmalaysia.cc:80/139664/139664/8858
+#EXTINF:-1,Blue Ant Entertainment
+http://iptv.tvmalaysia.cc:80/139664/139664/8860
+#EXTINF:-1,Blue Ant Extreme
+http://iptv.tvmalaysia.cc:80/139664/139664/8861
+#EXTINF:-1,TLC
+http://iptv.tvmalaysia.cc:80/139664/139664/8862
+#EXTINF:-1,Sony One
+http://iptv.tvmalaysia.cc:80/139664/139664/8863
+#EXTINF:-1,Sony Gem
+http://iptv.tvmalaysia.cc:80/139664/139664/8864
+#EXTINF:-1,TvN
+http://iptv.tvmalaysia.cc:80/139664/139664/8865
+#EXTINF:-1,Disney Channel HD
+http://iptv.tvmalaysia.cc:80/139664/139664/7196
+#EXTINF:-1,=== ASTRO SPORTS ===
+http://iptv.tvmalaysia.cc:80/139664/139664/7214
+#EXTINF:-1,ASTRO Arena HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6707
+#EXTINF:-1,ASTRO SUPERSPORT HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6708
+#EXTINF:-1,ASTRO SUPERSPORT 2 HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6710
+#EXTINF:-1,ASTRO SUPERSPORT 3 HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6711
+#EXTINF:-1,ASTRO SUPERSPORT 4 HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6712
+#EXTINF:-1,FOX Sports HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6793
+#EXTINF:-1,FOX Sports 2 HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6791
+#EXTINF:-1,FOX Sports 3 HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6792
+#EXTINF:-1,ASTRO Cricket
+http://iptv.tvmalaysia.cc:80/139664/139664/6717
+#EXTINF:-1,beIN Sports
+http://iptv.tvmalaysia.cc:80/139664/139664/6749
+#EXTINF:-1,beIN MAX
+http://iptv.tvmalaysia.cc:80/139664/139664/6748
+#EXTINF:-1,beIN MAX ( BACKUP FINAL UCL)
+http://iptv.tvmalaysia.cc:80/139664/139664/8868
+#EXTINF:-1,beIN MAX 2
+http://iptv.tvmalaysia.cc:80/139664/139664/7195
+#EXTINF:-1,WWE Network
+http://iptv.tvmalaysia.cc:80/139664/139664/6849
+#EXTINF:-1,Rugby Pass TV
+http://iptv.tvmalaysia.cc:80/139664/139664/6821
+#EXTINF:-1,Golf Channel HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6796
+#EXTINF:-1,=== DSTV Supersport ===
+http://iptv.tvmalaysia.cc:80/139664/139664/7215
+#EXTINF:-1,DSTV: SuperSport Grandstand
+http://iptv.tvmalaysia.cc:80/139664/139664/6572
+#EXTINF:-1,DSTV: SuperSport PSL
+http://iptv.tvmalaysia.cc:80/139664/139664/6573
+#EXTINF:-1,DSTV: SuperSport Premier League
+http://iptv.tvmalaysia.cc:80/139664/139664/6574
+#EXTINF:-1,DSTV: SuperSport La Liga
+http://iptv.tvmalaysia.cc:80/139664/139664/6575
+#EXTINF:-1,DSTV: SuperSport Football
+http://iptv.tvmalaysia.cc:80/139664/139664/6576
+#EXTINF:-1,DSTV: SuperSport Variety 1
+http://iptv.tvmalaysia.cc:80/139664/139664/6577
+#EXTINF:-1,DSTV: SuperSport Variety 2
+http://iptv.tvmalaysia.cc:80/139664/139664/6578
+#EXTINF:-1,DSTV: SuperSport Variety 3
+http://iptv.tvmalaysia.cc:80/139664/139664/6579
+#EXTINF:-1,DSTV: SuperSport Variety 4
+http://iptv.tvmalaysia.cc:80/139664/139664/6580
+#EXTINF:-1,DSTV: SuperSport Cricket
+http://iptv.tvmalaysia.cc:80/139664/139664/6583
+#EXTINF:-1,DSTV: Supersport Blitz
+http://iptv.tvmalaysia.cc:80/139664/139664/6584
+#EXTINF:-1,DSTV: SuperSport MáXimo
+http://iptv.tvmalaysia.cc:80/139664/139664/6585
+#EXTINF:-1,DSTV: SuperSport Rugby
+http://iptv.tvmalaysia.cc:80/139664/139664/6582
+#EXTINF:-1,DSTV: SuperSport Action
+http://iptv.tvmalaysia.cc:80/139664/139664/6581
+#EXTINF:-1,DSTV: SuperSport Motorsport
+http://iptv.tvmalaysia.cc:80/139664/139664/7142
+#EXTINF:-1,DSTV: SuperSport Tennis
+http://iptv.tvmalaysia.cc:80/139664/139664/7143
+#EXTINF:-1,DSTV: SuperSport WWE
+http://iptv.tvmalaysia.cc:80/139664/139664/7144
+#EXTINF:-1,DSTV: SuperSport Golf
+http://iptv.tvmalaysia.cc:80/139664/139664/7145
+#EXTINF:-1,=== beIN SPORT ===
+http://iptv.tvmalaysia.cc:80/139664/139664/7216
+#EXTINF:-1,BeIN Sport 1
+http://iptv.tvmalaysia.cc:80/139664/139664/6597
+#EXTINF:-1,BeIN Sport 2
+http://iptv.tvmalaysia.cc:80/139664/139664/6598
+#EXTINF:-1,BeIN Sport 3
+http://iptv.tvmalaysia.cc:80/139664/139664/6599
+#EXTINF:-1,BeIN Sport 4
+http://iptv.tvmalaysia.cc:80/139664/139664/6600
+#EXTINF:-1,BeIN Sport 5
+http://iptv.tvmalaysia.cc:80/139664/139664/6601
+#EXTINF:-1,BeIN Sport 6
+http://iptv.tvmalaysia.cc:80/139664/139664/6602
+#EXTINF:-1,BeIN Sport 7
+http://iptv.tvmalaysia.cc:80/139664/139664/6603
+#EXTINF:-1,BeIN Sport 8
+http://iptv.tvmalaysia.cc:80/139664/139664/6604
+#EXTINF:-1,BeIN Sport 9
+http://iptv.tvmalaysia.cc:80/139664/139664/6605
+#EXTINF:-1,BeIN Sport 10
+http://iptv.tvmalaysia.cc:80/139664/139664/6606
+#EXTINF:-1,BeIN Sport 11
+http://iptv.tvmalaysia.cc:80/139664/139664/6607
+#EXTINF:-1,BeIN Sport 12
+http://iptv.tvmalaysia.cc:80/139664/139664/6608
+#EXTINF:-1,BeIN Sport 13
+http://iptv.tvmalaysia.cc:80/139664/139664/6609
+#EXTINF:-1,=== BT SPORT ===
+http://iptv.tvmalaysia.cc:80/139664/139664/7218
+#EXTINF:-1,BT Sport 1
+http://iptv.tvmalaysia.cc:80/139664/139664/6610
+#EXTINF:-1,BT Sport 2
+http://iptv.tvmalaysia.cc:80/139664/139664/6611
+#EXTINF:-1,BT Sport 3
+http://iptv.tvmalaysia.cc:80/139664/139664/6612
+#EXTINF:-1,BT Sport ESPN
+http://iptv.tvmalaysia.cc:80/139664/139664/6613
+#EXTINF:-1,UK: Premier Sports 1
+http://iptv.tvmalaysia.cc:80/139664/139664/7112
+#EXTINF:-1,UK: Premier Sports 2
+http://iptv.tvmalaysia.cc:80/139664/139664/7113
+#EXTINF:-1,=== SKY SPORTS ===
+http://iptv.tvmalaysia.cc:80/139664/139664/7217
+#EXTINF:-1,UK: Sky Sports News
+http://iptv.tvmalaysia.cc:80/139664/139664/6614
+#EXTINF:-1,UK: Sky Sports Arena
+http://iptv.tvmalaysia.cc:80/139664/139664/6615
+#EXTINF:-1,UK: Sky Sports Action
+http://iptv.tvmalaysia.cc:80/139664/139664/6616
+#EXTINF:-1,UK: Sky Sports F1
+http://iptv.tvmalaysia.cc:80/139664/139664/6617
+#EXTINF:-1,UK: Sky Sports Golf
+http://iptv.tvmalaysia.cc:80/139664/139664/6618
+#EXTINF:-1,UK: Sky Sports Football
+http://iptv.tvmalaysia.cc:80/139664/139664/6620
+#EXTINF:-1,UK: Sky Sports Premier League
+http://iptv.tvmalaysia.cc:80/139664/139664/6621
+#EXTINF:-1,UK: Sky Sports Cricket
+http://iptv.tvmalaysia.cc:80/139664/139664/6619
+#EXTINF:-1,UK: Sky Sports Racing
+http://iptv.tvmalaysia.cc:80/139664/139664/7114
+#EXTINF:-1,UK: Sky Sports Main Event
+http://iptv.tvmalaysia.cc:80/139664/139664/7115
+#EXTINF:-1,UK: Sky Sports Mix
+http://iptv.tvmalaysia.cc:80/139664/139664/7116
+#EXTINF:-1,MUTV
+http://iptv.tvmalaysia.cc:80/139664/139664/7236
+#EXTINF:-1,LFC TV
+http://iptv.tvmalaysia.cc:80/139664/139664/7237
+#EXTINF:-1,Fubo: TUDN
+http://iptv.tvmalaysia.cc:80/139664/139664/7247
+#EXTINF:-1,Fubo: TUDNxtra 1
+http://iptv.tvmalaysia.cc:80/139664/139664/7248
+#EXTINF:-1,Fubo: TUDNxtra 2
+http://iptv.tvmalaysia.cc:80/139664/139664/7249
+#EXTINF:-1,Fubo: TUDNxtra 3
+http://iptv.tvmalaysia.cc:80/139664/139664/7250
+#EXTINF:-1,Fubo: TUDNxtra 4
+http://iptv.tvmalaysia.cc:80/139664/139664/7251
+#EXTINF:-1,Fubo: TUDNxtra 5
+http://iptv.tvmalaysia.cc:80/139664/139664/7252
+#EXTINF:-1,Fubo: TUDNxtra 6
+http://iptv.tvmalaysia.cc:80/139664/139664/7253
+#EXTINF:-1,Fubo: TUDNxtra 7
+http://iptv.tvmalaysia.cc:80/139664/139664/7254
+#EXTINF:-1,Fubo: TUDNxtra 8
+http://iptv.tvmalaysia.cc:80/139664/139664/7255
+#EXTINF:-1,Fubo: TUDNxtra 9
+http://iptv.tvmalaysia.cc:80/139664/139664/7256
+#EXTINF:-1,Fubo: TUDNxtra 10
+http://iptv.tvmalaysia.cc:80/139664/139664/7257
+#EXTINF:-1,Fubo: TUDNxtra 11
+http://iptv.tvmalaysia.cc:80/139664/139664/7258
+#EXTINF:-1,UFC
+http://iptv.tvmalaysia.cc:80/139664/139664/7259
+#EXTINF:-1,UFC PPV Early Prelims
+http://iptv.tvmalaysia.cc:80/139664/139664/7260
+#EXTINF:-1,UFC PPV Prelims
+http://iptv.tvmalaysia.cc:80/139664/139664/7261
+#EXTINF:-1,UFC PPV Main Card
+http://iptv.tvmalaysia.cc:80/139664/139664/7262
+#EXTINF:-1,PPV Boxing
+http://iptv.tvmalaysia.cc:80/139664/139664/7263
+#EXTINF:-1,LowBW UFC PPV Main Card
+http://iptv.tvmalaysia.cc:80/139664/139664/7265
+#EXTINF:-1,arena backup 1
+http://iptv.tvmalaysia.cc:80/139664/139664/8866
+#EXTINF:-1,CA: Disney Junior
+http://iptv.tvmalaysia.cc:80/139664/139664/7197
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7rMSG1H/rusia.png" group-title="RUSIA SPORTS",Match 1
+https://chostv.mobie.in/choos/sports/matchqy1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7rMSG1H/rusia.png" group-title="RUSIA SPORTS",Match 2
+https://chostv.mobie.in/choos/sports/matchqy2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7rMSG1H/rusia.png" group-title="RUSIA SPORTS",Match 3
+https://chostv.mobie.in/choos/sports/matchqy3.m3u8
+
